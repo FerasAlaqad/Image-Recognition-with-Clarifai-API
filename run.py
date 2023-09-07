@@ -3,7 +3,7 @@ import base64
 import os
 
 # Your PAT (Personal Access Token) can be found in the portal under Authentification
-PAT = '27c0c62f3a494acfafb803112ae2627c'
+PAT = ''
 # Specify the correct user_id/app_id pairings
 # Since you're making inferences outside your app's scope
 USER_ID = 'fcyehxqjklox'
